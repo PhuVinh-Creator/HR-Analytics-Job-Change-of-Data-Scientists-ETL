@@ -92,11 +92,14 @@ Database credentials:
 Proceeding the ETL by:
 - Installing sqlalchemy
 - Importing pandas, create_engine, pymysql
+
 2- Extract Data 🗃️
 - Download all the CSV, Excel files, and connect to Google Sheet and MySQL to gain access to datasource.
-- Collectively garner all the data into colab   
+- Collectively garner all the data into colab
+
 3- Transform data 🛠️
 - Fix code type and handle all missing values
+
 4- Load data to sources 🖥️
 - Load all the processed to SQL, CSV, Excel
 
