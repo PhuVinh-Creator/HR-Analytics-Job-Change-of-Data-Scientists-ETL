@@ -85,5 +85,18 @@ Database credentials:
 - Database name: company_course
 - Table name: employment
 
+## 3) Extract, Transform, and Load (ETL) description 
+1- Import Libraries 📚
+Proceeding the ETL by:
+- Installing sqlalchemy
+- Importing pandas, create_engine, pymysql
+2- Extract Data 🗃️
+- Download all the CSV, Excel files, and connect to Google Sheet and MySQL to gain access to datasource.
+- Collectively garner all the data into colab   
+3- Transform data 🛠️
+- Fix code type and handle all missing values
+4- Load data to sources 🖥️
+- Load all the processed to SQL, CSV, Excel
 
-
+## 4) Instruction
+All the works and detailed instruction are available at the ipynb or py file.
