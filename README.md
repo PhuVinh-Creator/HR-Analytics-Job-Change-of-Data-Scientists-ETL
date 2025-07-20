@@ -1,7 +1,7 @@
 # HR-Analytics-Job-Change-of-Data-Scientists-ETL
 **See more in ipynb or py file*
 
-![Uploading image.png…]()
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b7262d57-5dd5-4ac7-a5f6-cf53aa4840d7" />
 
 ## 1) HR Analytics: Job Change of Data Scientists
 ### **Intorduction**
